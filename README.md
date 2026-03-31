@@ -19,7 +19,7 @@ The dataset contains information related to customer shopping behavior, includin
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - **Programming Language:** Python  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
 - **Databases:** PostgreSQL 
